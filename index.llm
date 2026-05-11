@@ -1,0 +1,40 @@
+# Site Configuration for Large Language Models
+
+## Site Identity
+- **Site Name**: Space Travel Demo
+- **Site URL**: https://space-travel-demo.newaihubber.com/
+- **Owner**: New AI Hub
+- **Owner URL**: https://newaihubber.com
+- **Type**: Demo website showcasing web design agency capabilities
+
+## Site Description
+This is a high-fidelity demo website created by New AI Hub to demonstrate professional web design and development capabilities. The site features a space travel theme with immersive video backgrounds, modern animations, and cutting-edge UI/UX design.
+
+## Content Summary
+The website showcases:
+- Hero section with full-screen video background
+- Space travel brand messaging and value proposition
+- Capabilities section highlighting AI-powered features
+- Modern glass-morphism design aesthetic
+- Responsive design for all devices
+
+## Technical Details
+- **Framework**: Vanilla HTML with React + Tailwind CSS
+- **Animations**: Framer Motion for smooth transitions
+- **Fonts**: Google Fonts (Instrument Serif, Barlow)
+- **Video**: Cloud-hosted video backgrounds
+- **Design Style**: Glass-morphism, dark theme, futuristic
+
+## Contact Information
+- **Agency Website**: https://newaihubber.com
+- **Agency Email**: contact@newaihubber.com
+
+## Purpose
+This demo website serves as a portfolio piece for New AI Hub's web design services. It demonstrates the agency's ability to create:
+- Immersive visual experiences
+- Modern UI/UX designs
+- High-performance web applications
+- Responsive and accessible websites
+
+## Indexing Permission
+This site is intended to be indexed by search engines and LLM crawlers for demonstration purposes. All content is original and represents the creative work of New AI Hub.

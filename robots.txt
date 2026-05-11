@@ -1,0 +1,13 @@
+# https://robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://space-travel-demo.newaihubber.com/sitemap.xml
+
+# Crawl delay (optional, be respectful to hosting)
+Crawl-delay: 1
+
+# Block low-value resources from being indexed
+Disallow: /_next/
+Disallow: /*.json$
